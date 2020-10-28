@@ -6,7 +6,6 @@ import {
   Redirect,
 } from "react-router-dom";
 
-import Axios from "axios";
 import Home from "./components/Home";
 import Register from "./components/Registrieren";
 import Login from "./components/Login";
